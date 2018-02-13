@@ -11,7 +11,7 @@
     "bluebird": "^2.10.2",
     "lodash": "^3.10.1",
     "native-or-bluebird": "^1.2.0",
-    "node-helper-utilities": "^2.1.0",
+    "node-helper-utilities": "git+https://github.com/u0078867/node-utilities.git",
     "request": "^2.65.0",
     "tv4": "^1.2.7"
   },
